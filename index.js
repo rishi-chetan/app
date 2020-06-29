@@ -26,7 +26,7 @@ const item2 = new Item({
 });
 
 const item3 = new Item({
-    name: "<<< hit this to checklist an item."
+    name: "<<< hit this to box an item."
 });
 
 const defaultItems = [item1, item2, item3];
